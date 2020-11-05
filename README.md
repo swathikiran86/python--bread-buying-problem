@@ -23,4 +23,4 @@ Requirements:
 - Please write a well formatted, easily readable python function calculate_purchasing_plan(total_days, sellers) in a file called your_name.py that solves this problem using only the standard python (i.e. no packages required).
 
 Example:
->>> calculate_purchasing_plan(60, [(10,200), (15,100), (35,500), (50,30)]) [5, 30, 5, 10]
+Input:  calculate_purchasing_plan(60, [(10,200), (15,100), (35,500), (50,30)]) [5, 30, 5, 10]
